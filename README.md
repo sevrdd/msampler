@@ -8,6 +8,6 @@ I'm pretty new at coding so any constructive criticism is welcomed!
 If you have any issues or questions running it just send me a message (preferably discord) and i'll answer you as fast as possible! 
 
 Set Up
--I recommend pinning or making a shortcut of the exe somewhere that you can quicly access (i personally have it pinned to the start menu)
--I recommend doing the same thing for the msampler_output folder which is where all your downloads go.
+I recommend pinning or making a shortcut of the exe somewhere that you can quicly access (i personally have it pinned to the start menu)
+I recommend doing the same thing for the msampler_output folder which is where all your downloads go.
 
